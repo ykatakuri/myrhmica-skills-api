@@ -1,42 +1,38 @@
 [
     {
-        "skills": {
-            "title": "Manager une équipe"
-        }
+        "id": 1,
+        "title": "Manager une équipe"
     },
     {
-        "skills": {
-            "title": "Analyse financière"
-        }
+        "id": 2,
+        "title": "Analyse financière"
+        
     },
     {
-        "skills": {
-            "title": "Vente"
-        }
+        "id": 3,
+        "title": "Vente"
+        
     },
     {
-        "skills": {
-            "title": "Production vidéo"
-        }
+        "id": 4,
+        "title": "Production vidéo"
+    
     },
     {
-        "skills": {
-            "title": "UX design"
-        }
+        "id": 5,
+        "title": "UX design"
+        
+    },
+    {   
+        "id": 6,
+        "title": "Créativité"
     },
     {
-        "skills": {
-            "title": "Créativité"
-        }
+        "id": 7,
+        "title": "Travail d'équipe"
     },
     {
-        "skills": {
-            "title": "Travail d'équipe"
-        }
-    },
-    {
-        "skills": {
-            "title": "Capacité d'adaptation"
-        }
+        "id": 8,
+        "title": "Capacité d'adaptation"
     }
 ]
